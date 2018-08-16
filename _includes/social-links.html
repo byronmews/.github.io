@@ -107,11 +107,21 @@
         </a>
     {% endif %}
     
-        {% if site.orcid %}
+    {% if site.orcid %}
         <a class="link" data-title="orcid.org/{{ site.orcid }}" href="https://europepmc.org/authors/{{ site.orcid }}" target="_blank">
             <svg class="icon icon-orcid"><use xlink:href="#icon-orcid"></use></svg>
         </a>
     {% endif %}
+    
+    {% if site.researchgate %}
+        <a class="link" data-title="researchgate.net/{{ site.researchgate }}" href="https://researchgate.net/profile/{{ site.researchgate }}" target="_blank">
+            <svg class="icon icon-researchgate"><use xlink:href="#icon-researchgate"></use></svg>
+        </a>
+    {% endif %}
+    
+    
+    
+    https://www.researchgate.net/profile/Graham_Rose
     
     
     
