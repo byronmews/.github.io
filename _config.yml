@@ -52,10 +52,11 @@ github: byronmews
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 # email: myemail@gmail.com
+orchid: 0000-0002-5097-5426 
 
 authors:
     grahamrose:
-        name: Graham DoRosee
+        name: Graham Rose
         bio: Computational biologist
         external-image: false
         picture: assets/images/profile.jpg
