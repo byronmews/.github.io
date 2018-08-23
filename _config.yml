@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://byronmews.github.io/md-cv
+resume-url: https://byronmews.github.io/cv
 
 url: https://byronmews.github.io
 # your url: http://USERNAME.github.io
