@@ -1,6 +1,6 @@
 # main text of home
 name: Graham Rose
-bio: computational biologist
+bio: Bioinformatics Scientist
 
 # twitter summary info
 # description:
@@ -58,7 +58,7 @@ researchgate: Graham_Rose
 authors:
     grahamrose:
         name: Graham Rose
-        bio: Computational biologist
+        bio: Bioinformatics Scientist
         external-image: false
         picture: assets/images/profile.jpg
         # twitter: johndoe
